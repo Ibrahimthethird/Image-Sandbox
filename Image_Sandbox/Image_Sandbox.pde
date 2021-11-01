@@ -7,4 +7,9 @@ PImage pic1;
 fullScreen(); // displayWidth, displayHeight
 //
 //Load Images
-pic1 = loadImage();
+pic1 = loadImage("Halloween-Full-Moon-i842488914-1184x630.jpg"); //1184x630, landscape
+//
+//Variable population
+//
+//Image Layout
+rect();
